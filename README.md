@@ -28,5 +28,5 @@ This project demonstrates various use cases of `async/await` in JavaScript, incl
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/idrissbado/async-await-tasks.git
-   cd async-await-tasks
+   git clone https://github.com/idrissbado/asynchron .git
+   cd asynchron 
